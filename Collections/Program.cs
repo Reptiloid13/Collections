@@ -4,7 +4,7 @@ namespace Collections;
 
 public class Program
 {
-    public static LinkedList<string> LinkedList = new LinkedList<string>();
+
     static void Main(string[] args)
     {
         //Задание 13.6.1
